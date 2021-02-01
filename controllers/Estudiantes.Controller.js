@@ -1,5 +1,5 @@
 
-//ArchivoRutas
+//ArchivoRutasEstudiantes
 const Estudiantes = require('../models/Estudiantes');
 
 /**
